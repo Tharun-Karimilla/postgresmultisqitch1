@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=example
+%uri=https://example.com/
+
+create_schema2_table  deploy/create_schema2_table.sql  [schema2:create_schema2_table]
